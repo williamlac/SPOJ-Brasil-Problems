@@ -1,6 +1,6 @@
 # SPOJ-Brasil-Problems
 SPOJ Brasil problems solved by me.
-
+<hr>
 
 BAFO.cpp = <a href = "http://br.spoj.com/problems/BAFO/"> SPOJ Brasil - Bafo </a> <br>
 BITS.cpp = <a href = "http://br.spoj.com/problems/BIT/"> SPOJ Brasil - Bits Trocados </a> <br>
