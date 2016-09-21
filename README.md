@@ -18,3 +18,5 @@ VARETAS.cpp = <a href = "http://br.spoj.com/problems/VARETAS/"> SPOJ Brasil - Jo
 CFATORES.cpp = <a href = "http://br.spoj.com/problems/CFATORES/"> SPOJ Brasil - Conte os Fatores</a><br>
 DAMA.cpp = <a href = "http://br.spoj.com/problems/DAMA/"> SPOJ Brasil - Dama</a><br>
 NLOGONIA.cpp = <a href = "http://br.spoj.com/problems/NLOGONIA/"> SPOJ Brasil - Divisão da Nlogônia</a><br>
+Calcula.cpp = <a href = "http://br.spoj.com/problems/CALCULA/"> SPOJ Brasil - Calculando</a><br>
+Hanoi.cpp = <a href = "http://br.spoj.com/problems/OBIHANOI/"> SPOJ Brasil - Torres de Hanói</a><br>
